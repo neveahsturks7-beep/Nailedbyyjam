@@ -1,5 +1,0 @@
-================================
-NEW BOOKING REQUEST
-{"name":"cd","email":"neveahsturks7@gmail.com","phone":"6785954748","date":"20099-05-05","time":"22:09","nailLength":"Short","designs":"Solid Color, Rhinestone Frenchies","instagram":"nturkddn","inspiration":"vew","total":55}
-================================
-
